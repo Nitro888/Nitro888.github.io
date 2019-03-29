@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.99f1775e4c5592061fbd01a2ecb1f14f.js"
+  "/precache-manifest.c39bf5f919d011a3b475dd8805a86616.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "daoauth"});
