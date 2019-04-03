@@ -29,8 +29,6 @@
  * @license  MIT
  */
 
-/*! https://mths.be/punycode v1.4.1 by @mathias */
-
 /**
  * event-lite.js - Light-weight EventEmitter (less than 1KB when gzipped)
  *
@@ -53,6 +51,8 @@
  * obj.emit("bar");                     // dispatch another event
  * obj.off("foo");                      // remove event listener
  */
+
+/*! https://mths.be/punycode v1.4.1 by @mathias */
 
 /*
 object-assign
